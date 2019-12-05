@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="shanghai">
+    <serverData>
+      <paths name="shanghai">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/tomcat/apache-tomcat-9.0.29/webapps/demo-spring-mvc" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/.idea" />
+            <excludedPath local="true" path="$PROJECT_DIR$/demo-spring-mvc.iml" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
